@@ -18,6 +18,6 @@ This repo is used to learn more about Markdown and get more practice using it.
 * [Resource: CSS (w3schools)](https://www.w3schools.com/css/)
 
 ## Contributors
-Samuel Eagan
-Degree Program: Computer Science
+Samuel Eagan<br/>
+Degree Program: Computer Science<br/>
 ![](https://i.imgur.com/RptfcKc.jpg)
