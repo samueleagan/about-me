@@ -9,8 +9,8 @@ This repo is used to learn more about Markdown and get more practice using it.
 
 ## Recommended Tools
 1.[Tool: Github Desktop](https://desktop.github.com/)  
-1.[Tool: Learn Markdown](https://www.markdowntutorial.com/)  
-1.[Tool: Host site with Github Pages](https://pages.github.com/)  
+2.[Tool: Learn Markdown](https://www.markdowntutorial.com/)  
+3.[Tool: Host site with Github Pages](https://pages.github.com/)  
 
 ## Recommended Resources
 * [Resource: JavaScript (learn.js)](https://www.learn-js.org/)  
